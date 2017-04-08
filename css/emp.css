@@ -1,0 +1,33 @@
+#dat
+{
+	float:right ;
+	margin-right: 120px;
+	font-size:16px;	
+}
+.employee
+{
+	text-decoration:none;
+	font-size:16px;
+}
+
+table,th,td
+{
+	background-color:lightblue;
+	border:2px solid black;
+	padding:5px;
+    border-collapse:collapse;
+    empty-cells: hide;
+}	
+table
+{
+	max-height: 500px;
+  	overflow-y: scroll;
+}
+th
+{
+       background-color:#A00000;
+}			
+h4
+{
+	
+}
